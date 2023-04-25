@@ -4,7 +4,6 @@
 
 https://discord.gg/6j2M8hbP2G
 
-<!---
-sickjuggalo666/sickjuggalo666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+        <a href="https://ko-fi.com/sickjuggalo666"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelindat&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+</div>
