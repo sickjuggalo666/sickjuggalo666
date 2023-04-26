@@ -12,3 +12,7 @@ https://discord.gg/6j2M8hbP2G
 <div align="left">
         <a href="https://www.buymeacoffee.com/sickjuggalo666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hatchets&emoji=🔪&slug=sickjuggalo666&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
+
+<div align="left">
+<iframe id='kofiframe' src='https://ko-fi.com/sickjuggalo666/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='sickjuggalo666'></iframe>
+</div>
