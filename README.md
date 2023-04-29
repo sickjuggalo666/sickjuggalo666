@@ -12,4 +12,6 @@ https://discord.gg/6j2M8hbP2G
 <a href="https://www.buymeacoffee.com/sickjuggalo666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hatchets&emoji=🔪&slug=sickjuggalo666&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
-<iframe src="https://api.trackyserver.com/widget/tracky.php?id=1116063&lang_code=&map=0&version=1&votes=1&plist=1&connect=1&button_name=Connect&color1=21F8FF&color2=333333&color3=333333&color4=010A08&color5=FFFFFF&color7=21EDC4&color8=8a8e94&color9=fff&title=My Wrld 2.1 Join Discord.gg/mywrldrp" width="auto" height="200" allowtransparency="true" frameborder="0"></iframe>
+<div align="left">
+<a href="https://www.trackyserver.com/server/1116063" target="_blank"><img alt="My Wrld 2.1 |Fresh WIPE|Realistic Civ & Criminal RP|Discord Allow Listed|PD EMS MECH & More Hiring|Join Discord.gg/mywrldrp| FiveM server" src="https://www.trackyserver.com/banner/1116063/town/0FFFD7/050505" width="468" height="auto" /></a>
+        </div>
