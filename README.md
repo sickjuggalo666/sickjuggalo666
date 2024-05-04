@@ -15,6 +15,3 @@ https://discord.gg/6j2M8hbP2G
 <div align="left">
 <a href="https://www.trackyserver.com/server/1116063" target="_blank"><img alt="My Wrld 2.1 |Fresh WIPE|Realistic Civ & Criminal RP|Discord Allow Listed|PD EMS MECH & More Hiring|Join Discord.gg/mywrldrp| FiveM server" src="https://www.trackyserver.com/banner/1116063/town/0FFFD7/050505" width="468" height="auto" /></a>
         </div>
-<div align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jaciin8PNO0?si=-kc3RHkOYHPtId3p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   </div>
