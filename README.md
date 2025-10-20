@@ -10,8 +10,6 @@ https://discord.gg/6j2M8hbP2G
         <a href="https://ko-fi.com/sickjuggalo666"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=sickjuggalo666&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 </div>
 
-<div align="left">
-<a href="https://www.buymeacoffee.com/sickjuggalo666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hatchets&emoji=🔪&slug=sickjuggalo666&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sickjuggalo666" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/sickjuggalo666.png" alt="Your Image Badge" />
