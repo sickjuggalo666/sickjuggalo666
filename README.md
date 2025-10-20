@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @sickjuggalo666
-- 👀 I’m interested in lua coding for fivem
+- 👋 Hi, I’m @sickjuggalo666 or SickScripts
+- 👀 I develop lua scripts for fivem.
+- 😍 I do game development
+- 🐛 Bug hunter in training
 - 📫 How to reach me, discord server
 
 https://discord.gg/6j2M8hbP2G
